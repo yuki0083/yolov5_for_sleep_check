@@ -1,0 +1,1 @@
+(.venv) yuki@DESKTOP-LR0N5GQ:/mnt/c/Users/yuki/python-projects/sleep_check_programs/yolov5$ python3 detect.py --source ../data_collection/video/10588044_200122140112_L.mp4 --weights ./weights/best.pt
